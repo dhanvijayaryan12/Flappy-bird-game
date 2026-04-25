@@ -1,2 +1,3 @@
 # Flappy-bird-game
  Players tap to make the bird flap up; it constantly falls. Passing between one pair of pipes equals one point.
+This Flappy Bird clone is an HTML5, CSS, and JavaScript-based game where players navigate a bird through pipes to score points. It features endless gameplay mechanics, collision detection, and a scoring system, playable directly in browsers or via Chrome extension. The project, often built with index.html, style.css, and script.js, can be modified to change bird and pipe mechanics. 
